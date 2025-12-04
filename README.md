@@ -26,6 +26,26 @@ This repository contains my solutions to [Project Euler](https://projecteuler.ne
 | [18](https://projecteuler.net/problem=18) | Maximum Path Sum I | [problem=18.py](problem=18.py) | ⭐ |
 | [19](https://projecteuler.net/problem=19) | Counting Sundays | [problem=19.py](problem=19.py) | ⭐ |
 | [20](https://projecteuler.net/problem=20) | Factorial Digit Sum | [problem=20.py](problem=20.py) | ⭐ |
+| [21](https://projecteuler.net/problem=21) | Amicable Numbers | [problem=21.py](problem=21.py) | ⭐ |
+| [22](https://projecteuler.net/problem=22) | Names Scores | [problem=22.py](problem=22.py) | ⭐ |
+| [23](https://projecteuler.net/problem=23) | Non-Abundant Sums | [problem=23.py](problem=23.py) | ⭐ |
+| [24](https://projecteuler.net/problem=24) | Lexicographic Permutations | [problem=24.py](problem=24.py) | ⭐ |
+| [25](https://projecteuler.net/problem=25) | 1000-digit Fibonacci Number | [problem=25.py](problem=25.py) | ⭐ |
+| [26](https://projecteuler.net/problem=26) | Reciprocal Cycles | [problem=26.py](problem=26.py) | ⭐ |
+| [27](https://projecteuler.net/problem=27) | Quadratic Primes | [problem=27.py](problem=27.py) | ⭐ |
+| [28](https://projecteuler.net/problem=28) | Number Spiral Diagonals | [problem=28.py](problem=28.py) | ⭐ |
+| [29](https://projecteuler.net/problem=29) | Distinct Powers | [problem=29.py](problem=29.py) | ⭐ |
+| [30](https://projecteuler.net/problem=30) | Digit Fifth Powers | [problem=30.py](problem=30.py) | ⭐ |
+| [31](https://projecteuler.net/problem=31) | Coin Sums | [problem=31.py](problem=31.py) | ⭐ |
+| [32](https://projecteuler.net/problem=32) | Pandigital Products | [problem=32.py](problem=32.py) | ⭐ |
+| [33](https://projecteuler.net/problem=33) | Digit Cancelling Fractions | [problem=33.py](problem=33.py) | ⭐ |
+| [34](https://projecteuler.net/problem=34) | Digit Factorials | [problem=34.py](problem=34.py) | ⭐ |
+| [35](https://projecteuler.net/problem=35) | Circular Primes | [problem=35.py](problem=35.py) | ⭐ |
+| [36](https://projecteuler.net/problem=36) | Double-base Palindromes | [problem=36.py](problem=36.py) | ⭐ |
+| [37](https://projecteuler.net/problem=37) | Truncatable Primes | [problem=37.py](problem=37.py) | ⭐ |
+| [38](https://projecteuler.net/problem=38) | Pandigital Multiples | [problem=38.py](problem=38.py) | ⭐ |
+| [39](https://projecteuler.net/problem=39) | Integer Right Triangles | [problem=39.py](problem=39.py) | ⭐ |
+| [40](https://projecteuler.net/problem=40) | Champernowne's Constant | [problem=40.py](problem=40.py) | ⭐ |
 
 ## 🚀 Running Solutions
 
@@ -70,4 +90,4 @@ As per Project Euler's philosophy, these solutions are shared for educational pu
 
 ---
 
-**Progress**: 20 problems solved and counting! 🎉
+**Progress**: 40 problems solved and counting! 🎉
