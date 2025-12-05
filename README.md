@@ -46,6 +46,16 @@ This repository contains my solutions to [Project Euler](https://projecteuler.ne
 | [38](https://projecteuler.net/problem=38) | Pandigital Multiples | [problem=38.py](problem=38.py) | ⭐ |
 | [39](https://projecteuler.net/problem=39) | Integer Right Triangles | [problem=39.py](problem=39.py) | ⭐ |
 | [40](https://projecteuler.net/problem=40) | Champernowne's Constant | [problem=40.py](problem=40.py) | ⭐ |
+| [41](https://projecteuler.net/problem=41) | Pandigital Prime | [problem=41.py](problem=41.py) | ⭐ |
+| [42](https://projecteuler.net/problem=42) | Coded Triangle Numbers | [problem=42.py](problem=42.py) | ⭐ |
+| [43](https://projecteuler.net/problem=43) | Sub-string Divisibility | [problem=43.py](problem=43.py) | ⭐ |
+| [44](https://projecteuler.net/problem=44) | Pentagon Numbers | [problem=44.py](problem=44.py) | ⭐ |
+| [45](https://projecteuler.net/problem=45) | Triangular, Pentagonal, and Hexagonal | [problem=45.py](problem=45.py) | ⭐ |
+| [46](https://projecteuler.net/problem=46) | Goldbach's Other Conjecture | [problem=46.py](problem=46.py) | ⭐ |
+| [47](https://projecteuler.net/problem=47) | Distinct Primes Factors | [problem=47.py](problem=47.py) | ⭐ |
+| [48](https://projecteuler.net/problem=48) | Self Powers | [problem=48.py](problem=48.py) | ⭐ |
+| [49](https://projecteuler.net/problem=49) | Prime Permutations | [problem=49.py](problem=49.py) | ⭐ |
+| [50](https://projecteuler.net/problem=50) | Consecutive Prime Sum | [problem=50.py](problem=50.py) | ⭐ |
 
 ## 🚀 Running Solutions
 
@@ -90,4 +100,4 @@ As per Project Euler's philosophy, these solutions are shared for educational pu
 
 ---
 
-**Progress**: 40 problems solved and counting! 🎉
+**Progress**: 50 problems solved and counting! 🎉
